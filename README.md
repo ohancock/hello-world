@@ -28,8 +28,8 @@ Trying to [link again](http://ls560.ua.edu/~ohancock1/)
 [link to Google!](http://google.com)
 
 Picture time:
-![Flowers](flowers.jpg)
-Format: ![Alt Text](url)
+![Flowers](/images/flowers.jpg)
+
 
 I just want to see what this does:
 http://github.com - automatic!
