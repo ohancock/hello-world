@@ -31,6 +31,8 @@ Picture time:
 ![Flowers](/images/flowers.jpg)
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 I just want to see what this does:
 http://github.com - automatic!
 [GitHub](http://github.com)
