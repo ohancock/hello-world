@@ -4,7 +4,9 @@ Things about me
 I am currently on page 113 of Patti Smith's Just Kids. 
 
 *italics*
+
 **bold**
+
 _italics and **bold**_
 1. List
 1. More list
@@ -17,8 +19,11 @@ _italics and **bold**_
 * Bulleted list!
   * Woo hoo
  * What will happen here?
+ 
 Time to link to the [website] I made. (http://ls560.ua.edu/~ohancock1/)
 How do you [link] (http://ls560.ua.edu/~ohancock1/) twice in [one] (http://ls560.ua.edu/~ohancock1/assignments.html) sentence?
+
+Trying to [link again] (http://ls560.ua.edu/~ohancock1/).
 
 Picture time:
 ![Flowers](flowers.jpg)
