@@ -20,10 +20,12 @@ _italics and **bold**_
   * Woo hoo
  * What will happen here?
  
-Time to link to the [website] I made. (http://ls560.ua.edu/~ohancock1/)
-How do you [link] (http://ls560.ua.edu/~ohancock1/) twice in [one] (http://ls560.ua.edu/~ohancock1/assignments.html) sentence?
+Time to link to the [website](http://ls560.ua.edu/~ohancock1/) I made. 
+How do you [link](http://ls560.ua.edu/~ohancock1/) twice in [one](http://ls560.ua.edu/~ohancock1/assignments.html) sentence?
 
-Trying to [link again] (http://ls560.ua.edu/~ohancock1/).
+Trying to [link again](http://ls560.ua.edu/~ohancock1/)
+
+[link to Google!](http://google.com)
 
 Picture time:
 ![Flowers](flowers.jpg)
