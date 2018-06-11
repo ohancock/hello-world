@@ -30,6 +30,7 @@ Trying to [link again](http://ls560.ua.edu/~ohancock1/)
 Picture time:
 ![Flowers](/images/flowers.jpg)
 
+<i class="fas fa-camera-retro"></i>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
